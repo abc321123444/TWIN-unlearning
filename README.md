@@ -18,6 +18,7 @@ conda activate unlearning
 ```
 
 **2. Download datasets**
+
 You can dowanload dataset cifar10 on http://www.cs.toronto.edu/~kriz/cifar.html
 
 ### Run the code
